@@ -1,1 +1,5 @@
 Java Interview Prep Questions!
+
+Format:
+Q: Who lives in a pineapple under the sea?
+A: SpongeBob SquarePants!
