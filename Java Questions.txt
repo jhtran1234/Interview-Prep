@@ -3,3 +3,15 @@ Java Interview Prep Questions!
 Format:
 Q: Who lives in a pineapple under the sea?
 A: SpongeBob SquarePants!
+
+Questions:
+Q: 
+A: 
+
+Topics to study:
+- Hash code contract
+- Clone method
+- Wrapper class vs. primative types
+- String methods
+- Buffer overflow vulnerabilities
+- 
